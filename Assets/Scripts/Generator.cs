@@ -267,6 +267,7 @@ namespace NOX
 
         private IEnumerator MissileGeneratorCheck()
         {
+            yield return new WaitForSeconds(2);
             while (true)
             {
                 float missileRespawnTime = Random.Range(missileRespawnTimeMin, missileRespawnTimeMax);

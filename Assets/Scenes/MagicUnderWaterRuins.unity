@@ -2521,6 +2521,14 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 266220669, guid: 0b5fe33434d4f24469d7684524ede115, type: 3}
+      propertyPath: objectsMaxY
+      value: 2.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 266220669, guid: 0b5fe33434d4f24469d7684524ede115, type: 3}
+      propertyPath: objectsMinY
+      value: -2.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 266220669, guid: 0b5fe33434d4f24469d7684524ede115, type: 3}
       propertyPath: magicShieldRespawnTimeMax
       value: 20
       objectReference: {fileID: 0}
