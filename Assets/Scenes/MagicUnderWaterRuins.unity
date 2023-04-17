@@ -3888,6 +3888,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoinsForNextLevelText
       objectReference: {fileID: 0}
+    - target: {fileID: 4724061651214369062, guid: 1c07274cd85908f4f922abdfbe7722db, type: 3}
+      propertyPath: m_text
+      value: 'Coins required for next level: 75'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4724061651214369062, guid: 1c07274cd85908f4f922abdfbe7722db, type: 3}
+      propertyPath: m_fontSize
+      value: 24.55
+      objectReference: {fileID: 0}
     - target: {fileID: 5780730073573177011, guid: 1c07274cd85908f4f922abdfbe7722db, type: 3}
       propertyPath: m_Pivot.x
       value: 0

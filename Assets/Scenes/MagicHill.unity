@@ -136,11 +136,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4724061651214369062, guid: 1c07274cd85908f4f922abdfbe7722db, type: 3}
       propertyPath: m_text
-      value: 'Coins required for next level: 75'
+      value: 'Coins required for next level: 100'
       objectReference: {fileID: 0}
     - target: {fileID: 4724061651214369062, guid: 1c07274cd85908f4f922abdfbe7722db, type: 3}
       propertyPath: m_fontSize
-      value: 24.55
+      value: 23.3
       objectReference: {fileID: 0}
     - target: {fileID: 5780730073573177011, guid: 1c07274cd85908f4f922abdfbe7722db, type: 3}
       propertyPath: m_Pivot.x
@@ -1428,7 +1428,7 @@ PrefabInstance:
       objectReference: {fileID: 8300000, guid: bdfda847a8b077345b5d7f2aeebebad0, type: 3}
     - target: {fileID: 2420408414979045639, guid: 79f9f524371e248459a8012faf13992b, type: 3}
       propertyPath: coinsNeededForNextLevel
-      value: 75
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 79f9f524371e248459a8012faf13992b, type: 3}
